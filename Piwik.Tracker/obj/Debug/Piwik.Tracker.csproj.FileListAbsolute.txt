@@ -1,0 +1,6 @@
+C:\Users\enrico\Desktop\Piwik\Piwik.Tracker\bin\Debug\Piwik.Tracker.xml
+C:\Users\enrico\Desktop\Piwik\Piwik.Tracker\bin\Debug\Piwik.Tracker.dll
+C:\Users\enrico\Desktop\Piwik\Piwik.Tracker\bin\Debug\Piwik.Tracker.pdb
+C:\Users\enrico\Desktop\Piwik\Piwik.Tracker\obj\Debug\Piwik.Tracker.csprojResolveAssemblyReference.cache
+C:\Users\enrico\Desktop\Piwik\Piwik.Tracker\obj\Debug\Piwik.Tracker.dll
+C:\Users\enrico\Desktop\Piwik\Piwik.Tracker\obj\Debug\Piwik.Tracker.pdb
